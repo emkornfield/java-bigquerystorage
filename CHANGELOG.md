@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.22.0](https://www.github.com/googleapis/java-bigquerystorage/compare/v1.21.1...v1.22.0) (2021-05-26)
+
+
+### Features
+
+* add `gcf-owl-bot[bot]` to `ignoreAuthors` ([#1092](https://www.github.com/googleapis/java-bigquerystorage/issues/1092)) ([9fe34d1](https://www.github.com/googleapis/java-bigquerystorage/commit/9fe34d1a7ea2b4c1f750fd8805251811a4b0111d))
+
+
+### Dependencies
+
+* update dependency com.google.truth:truth to v1.1.3 ([#1100](https://www.github.com/googleapis/java-bigquerystorage/issues/1100)) ([12c401f](https://www.github.com/googleapis/java-bigquerystorage/commit/12c401feec1fb7fbaf39ea7ccffee4a02faffeb3))
+
 ### [1.21.1](https://www.github.com/googleapis/java-bigquerystorage/compare/v1.21.0...v1.21.1) (2021-05-19)
 
 
